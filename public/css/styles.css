@@ -1,0 +1,107 @@
+
+
+.bolder { font-weight: bolder}
+
+/* Margins */
+.mt-1 {margin-top: 1.2em}
+
+.avatar-image {
+  margin-right: 0.4em;
+}
+
+.card-header {
+  font-weight: bolder;
+}
+
+.pub {
+  margin-bottom: 25px;
+}
+
+.pub-interactions-date {
+  color: #999;
+}
+
+.pub-interactions-like, .pub-interactions-dislike {
+  cursor: pointer;
+}
+
+.pub-img-container {
+  max-height: 400px;
+  overflow: hidden;
+}
+
+.pub-img-container.on-detail {
+  max-height: 100%;
+}
+
+.pub-interactions-image-actions {
+  margin: 10px 0;
+  padding: 5px 0;
+}
+
+.pub-interactions-image-actions a {
+  margin-right: 10px;
+
+}
+
+.pub-img {
+  width: 100%;
+}
+
+.pub-link {
+  color: #000;
+}
+
+.pub-link:hover {
+  color: #999;
+  text-decoration: none;
+}
+
+.card-body.pub-body {
+  padding: 0;
+}
+
+.pub-description-container {
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.pub-comments {
+  display: inline;
+}
+
+.pub-comments.on-detail {
+  display: block;
+  margin: 10px;
+}
+
+.pub-comments, .pub-interactions {
+  margin: 10px;
+}
+
+.pub-comments-item {
+  margin-top: 2em;
+}
+
+.pub-comments-item-content, .pub-comments-item-delete {
+  margin-left: 3.45em;
+}
+
+.pub-interactions img {
+  width: 20px;
+}
+
+.nick {
+  font-weight: normal;
+  color: #999;
+}
+
+.img-preview {
+  width: 100%;
+}
+
+.search-button {
+  position: absolute;
+  top: 0px;
+  right: 16px;
+}
